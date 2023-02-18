@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm PangPang</h1>
+<h3 align="center">A material engineer in Tokyo 🗼 interested in Sotfware engineering</h3>
 
-<!--
-**pangpangtri/pangpangtri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask me about
+- Fundamentals of Data Science
+- Nanomaterials and Electronics
+- Supply Chain Planning
+- Project Management
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📅 Hobbies
+
+- Video Editing
+- Cooking
+- Watching Movies
+- etc...
+
+<!-- ## 💻 Current project
+
+- [financial-go](https://github.com/Jvillegasd/financial-go) -->
+
+## 📚 Learning
+
+- Swift UI
+- React.js ⚛
+- Python
+- HTML, JS, CSS
+
+
+<a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350"> 
+</a>
